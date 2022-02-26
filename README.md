@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome to my repositories 👋
 
-<!--
-**Hypro999/Hypro999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's pretty empty around here nowadays.
 
-Here are some ideas to get you started:
+I've archived a lot of my repos because even though they had decent code, they were
+mostly for my personal reference (e.g. snippets from when I was trying out other
+programming languages, old college assingments and projects, club/department work,
+etc.).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find these archived repos at:
+  - https://gitlab.com/users/Hypro999/projects
+  - https://gitlab.com/users/f20171170/projects
+
+Don't forget to checkout my [gists](https://gist.github.com/Hypro999) too!
+
+Some quick links to things I reference often:
+  - [vimrc / init.vim](https://gist.github.com/Hypro999/6220031ddeda6c42cf239c08f96066b4)
+  - [python.lua](https://gist.github.com/Hypro999/fb9add248e057185f793768aa6b4ab21)
+  - [java.lua](https://gist.github.com/Hypro999/1bb273e3fd638d42eb05e0351285109b)
+  - [VS Code keybinds](https://gist.github.com/Hypro999/899e5b9e7952224153a34f2b03127e59)
+  - [Windows Terminal settings](https://gist.github.com/Hypro999/e10bd9a359fdfc417bb519130352598d)
