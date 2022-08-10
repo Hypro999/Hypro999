@@ -15,7 +15,5 @@ Don't forget to checkout my [gists](https://gist.github.com/Hypro999) too!
 
 Some quick links to things I reference often:
   - [.vimrc / init.vim](https://gist.github.com/Hypro999/6220031ddeda6c42cf239c08f96066b4)
-  - [python.lua](https://gist.github.com/Hypro999/fb9add248e057185f793768aa6b4ab21)
-  - [java.lua](https://gist.github.com/Hypro999/1bb273e3fd638d42eb05e0351285109b)
   - [VS Code keybinds](https://gist.github.com/Hypro999/899e5b9e7952224153a34f2b03127e59)
   - [Windows Terminal settings](https://gist.github.com/Hypro999/e10bd9a359fdfc417bb519130352598d)
